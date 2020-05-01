@@ -1,0 +1,2 @@
+selamat datang ''Pengunjung''
+anda akan di ajak mempelajari "pemrograman PHP dan MYSQL"

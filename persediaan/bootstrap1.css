@@ -1,0 +1,114 @@
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+h1 {padding: 5px; 
+   margin: 0;
+   background-color: #2f4860; 
+   font-weight: bold; 
+   letter-spacing: -1px; 
+   color: #FFFFFF;
+   }
+h2 {margin: 5px; 
+   margin-left: 0;
+   font-weight: normal; 
+   letter-spacing: -1px; 
+   color: #2f4860;
+   }
+p {
+	text-align: justify;
+	}
+p.tengah {
+	text-align: center;
+	}
+.td_konten {
+background-color: #FFFFFF; 
+	}
+.td_bullet{
+	
+	}
+.td_menu{
+padding-left : 10px;
+padding-right : 10px;
+border: solid 1px #c0c0b0; 
+background-color: #c0c0b0; 
+color: black;
+width: 250px;
+height:350px;
+}
+.td_konten_atas{
+border: solid 1px #c0c0b0; 
+background-color: #c0c0b0; 
+color: #2f4860;
+}
+.judul {
+	background-color: #c0c0b0; 
+	margin: 0; 
+	padding: 0; 
+	padding-left: 0px; 
+	color: #2f4860; 
+	border-bottom: solid 1px #2f4860;
+	}
+.judul_menu {
+	background-color: #c0c0b0; 
+	margin: 0; 
+	padding: 0; 
+	padding-left: 0px; 
+	color: #2f4860; 
+	border-bottom: solid 1px #2f4860;
+	}
+.footer {
+	border: solid 1px #2f4860; 
+	text-align: right; 
+	background-color: #2f4860; 
+	color: #ffffff;
+	}
+ul {
+	width: 92%; 
+	margin: 0; 
+	padding-left: 25px;
+	}
+li {
+	margin-top: 0px; 
+	margin-bottom: 1px;
+	}
+a{
+text-decoration:none;
+}
+.table {
+	border: 2px solid #2f4860;
+	border-collapse:collapse;
+	width:98%
+	}
+.table td {
+	background: #fff 0 -1600px;
+	font-size:12px;
+	padding:1px;
+	border: 1px solid #fff;
+	height:25px;
+	}
+.table th {
+	text-align:left;
+	border: 1px solid #fff
+	}
+.table thead th {
+	color:#fff;
+	font-size:11px;
+	text-align:center;
+	background: #2f4860 0 -1300px;
+	padding: 10px 6px
+	}
+.table tbody th {
+	color:#fff;
+	font-size:11px;
+	text-align:center;
+	background: #2f4860 0 -1400px;
+	padding: 6px
+}
